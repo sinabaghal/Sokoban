@@ -1,6 +1,6 @@
 # Code for Diffusion for Sokoban
 
-Code for the project *Masked Diffusion Generates Solvable Sokoban Puzzles Without Ever Seeing a Solver*. See [the project page](https://sinabaghal.github.io/sokoban/) for the write-up, figures, and a playground of generated puzzles.
+Code for the project *Masked Diffusion Generates Solvable Sokoban Puzzles Without Ever Seeing a Solver*. See [the project page](https://sinabaghal.github.io/sokoban/) for the write-up, figures, and [playground page](https://htmlpreview.github.io/?https://github.com/sinabaghal/SokobanPlayground/blob/main/playground.html) to see and play some generated puzzles. 
 
 ## AI usage
 
