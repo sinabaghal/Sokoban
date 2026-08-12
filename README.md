@@ -1,7 +1,7 @@
 # Code for Diffusion for Sokoban
 
-This repo contains the code for the following project:
+Code for the project *Masked Diffusion Generates Solvable Sokoban Puzzles Without Ever Seeing a Solver*. See [the project page](https://sinabaghal.github.io/sokoban/) for the write-up, figures, and a playground of generated puzzles.
 
-Masked Diffusion Generates Solvable Sokoban Puzzles Without Ever Seeing a Solver
+## AI usage
 
-See [here](https://sinabaghal.github.io/sokoban/) for more details. 
+The research question, model architecture, training setup, and all experimental design decisions are the author's. Claude Code was used as an implementation and editing assistant.
